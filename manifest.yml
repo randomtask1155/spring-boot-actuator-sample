@@ -1,0 +1,5 @@
+---
+applications:
+- name: spring-boot-actuate-test
+  memory: 1024M
+  instances: 1
